@@ -11,7 +11,7 @@ header {
   text-align: center;
   background: url(gallery/images/purpledot.png) center top repeat-x;
   background:
-   url(galery/images/purpledot.png) left top repeat-y,
+   url(gallery/images/purpledot.png) left top repeat-y,
    url(gallery/images/purpledot.png) right top repeat-y,
    url(gallery/images/gooseshadow.png) 90% bottom no-repeat;
   background-color: rgba(255,255,255,.5);
