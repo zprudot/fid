@@ -1,0 +1,78 @@
+body {
+  margin: 0 10%;
+  font-family: sans-serif;
+  }
+h1 {
+  font-family: "Mrs Sheppards", cursive;
+  color: #2d397a;
+  text-align: center;
+  font-weight: 400;
+  font-size: 5em;
+  font-style: normal;
+  margin-top: 30px;
+  margin-bottom: 5px;
+}
+h2 {
+  font-family: "Caprasimo", serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1em;
+  text-align: center;
+  border-bottom: 1px solid #a0adfa;
+}
+h3 {
+  color: #2d397a;
+  font-size: 1.5em;
+  font-family: "Caprasimo", serif;
+  font-style: normal;
+  font-weight: 400;
+}
+ul li {
+ padding: 1rem;
+ display: inline-block;
+}
+h4 {
+ color: #2d397a;
+ font size: 1em;
+ font-family: "Rethink Sans", sans-serif;
+ overflow: hidden;
+ margin-bottom: 50px;
+}
+#margin {
+ margin-bottom:150px;
+}
+h5 {
+ color: #f5a4c0;
+ font-size: 1em;
+ text-align: center;
+ margin-bottom: 50px;
+ font-family: "Rethink Sans", sans-serif;
+}
+footer {
+ text-align: center;
+ float: center;
+ padding-top: 1em;
+}
+footer img {
+ width: 40px;
+ height: 40px;
+ margin-left: .5em;
+ margin-right:.5em;
+}
+a {
+  text-decoration: none;
+}
+a:link {
+ color: #f7b0c8;
+}
+a:visited {
+ color: #f79cbb;
+}
+a:hover {
+ color: white;
+ background-color: #2d397a;
+}
+a:active {
+ color: white;
+ background-color: #465291;
+}
