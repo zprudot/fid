@@ -9,7 +9,7 @@ header {
   margin-top: 0;
   padding: 3em 1em 2em 1em;
   text-align: center;
-  background: url(gallery/images/purpledot.png) center top repeat-x;
+  background: url(images/purpledot.png) center top repeat-x;
   background:
    url(gallery/images/purpledot.png) left top repeat-y,
    url(gallery/images/purpledot.png) right top repeat-y,
@@ -35,7 +35,7 @@ a:active {
  color: #79d2fc;
 }
 h1 {
-  font: bold 1.5em serif;
+  font: bold 1.5em Georgia, serif;
   text-shadow: .1em .1em .2em gray;
   color: #ed8e28;
   border-bottom: 1px solid #57b1dc;
